@@ -5,7 +5,7 @@ This website provides the information about Explore online courses led by top ed
 # Project Details
 1. Project Demo URL: https://eduhubstorageaccount.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/6Ya5nc-DkdI?si=r7QHmnsfjWyu4wjm
-3. GitHub Repository URL: https://github.com/manchesanthosh/Education-Hub.git
+3. GitHub Repository URL: https://github.com/manchesanthosh/Education-Repo.git
 4. Industry: Education
    
 # Roles and responsibilities
