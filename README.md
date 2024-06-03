@@ -87,7 +87,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![sign-in page](https://manchesanthosh.github.io/Education-Repo/signin1.png)
 
 # Footer page
-![Footer page](https://manchesanthosh.github.io/Education-Repo/footer.png)
+![Footer page](https://manchesanthosh.github.io/Education-Repo/about1.png)
 
 
 # Final Project Statement:
