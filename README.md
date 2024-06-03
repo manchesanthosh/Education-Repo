@@ -32,7 +32,7 @@ Customizable study plans and progress tracking tools to help learners stay on tr
 
 # Screenshot’s:
 # Storage Account
-![storage account](https://manchesanthosh.github.io/Education-Hub/storage.png)
+![storage account](https://manchesanthosh.github.io/Education-Repo/storage.png)
 
 # Static website
 ![static website](https://manchesanthosh.github.io/Education-Hub/staticwebsite.png.png)
