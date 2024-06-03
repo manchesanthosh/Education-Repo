@@ -1,0 +1,397 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+:root {
+  --linear-grad: linear-gradient(to right, #141e30, #243b55);
+  --grad-clr1: #141e30;
+  --grad-clr2: #243b55;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: #f6f5f7;
+  display: grid;
+  font-family: "Poppins", sans-serif;
+}
+
+.section-1 nav {
+  width: 100%;
+  height: 80px;
+  padding: 0px 20px;
+  background-color: beige;
+  box-shadow: 0px 2px 4px rgb(155, 155, 155);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+  position: relative;
+}
+
+/* ================get started button style ===================================== */
+
+.section-1 nav ul li .btn {
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+  padding: 17px 42px;
+  color: red;
+  border: 0.5px solid red;
+  font-weight: 500;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: color 0.4s linear;
+  position: relative;
+}
+
+.section-1 nav ul li .btn:hover {
+  z-index: 1;
+  color: #fff;
+}
+
+.section-1 nav ul li a {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.section-1 nav ul li .btn::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  border-radius: 4px;
+  z-index: -1;
+  transition: transform 0.4s;
+  transform-origin: 0 0;
+  transition-timing-function: cubic-bezier(0.5, 1.6, 0.4, 0.7);
+}
+
+.section-1 nav ul li .btn-1::before {
+  transform: scaleY(0);
+}
+
+.section-1 nav ul li .btn-1:hover::before {
+  transform: scaleY(1);
+}
+
+/* ============================================================================ */
+
+.section-1 nav .logo .title-edu .edu {
+  font-size: 24px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-1 nav .logo .title-edu .edu a {
+  margin: 0px;
+  font-size: 24px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+
+.section-1 nav .logo .title-logo .image {
+  width: 80px;
+  height: 80px;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-1 nav .logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.section-1 nav ul li {
+  display: inline-block;
+  padding: 10px 30px;
+}
+
+.section-1 nav ul li a {
+  margin: 0px;
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.section-1 nav ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* .section-1 nav ul li a:is(:link, :visited, :active).active {
+  border-bottom: 3px solid red;
+} */
+
+.section-1 nav ul li a:hover,
+.section-1 nav ul li .log-in {
+  color: red;
+}
+
+.section-1 nav ul li .btn-1 {
+  border: 2px solid red;
+  padding: 8px 18px;
+  color: red;
+}
+/*==========================Sumanth code==============================================*/
+
+.container {
+  position: relative;
+  margin: 10px auto;
+  padding: 0px;
+  width: 850px;
+  height: 500px;
+  background-color: #fff;
+  box-shadow: 25px 30px 55px #5557;
+  border-radius: 13px;
+  /* overflow: hidden; */
+  display: flex;
+  flex-direction: row;
+}
+
+.container .left {
+  margin: 0px;
+  border-radius: 13px 0px 0px 13px;
+  padding: 0px 30px;
+  width: 45%;
+  height: 100%;
+  color: #ddd;
+  background-color: #141e30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container .left h2 {
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.container .left p {
+  color: rgb(143, 143, 143);
+}
+
+.container .right {
+  width: 60%;
+  height: 100%;
+  padding: 0px 40px;
+}
+
+.form-container {
+  position: absolute;
+  width: 60%;
+  height: 100%;
+  padding: 0px 40px;
+}
+
+form {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 20px 80px;
+  position: relative;
+}
+h1 {
+  color: var(--grad-clr1);
+}
+.social-container {
+  margin: 20px 0px;
+}
+
+.social-container a {
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 5px;
+  height: 40px;
+  width: 40px;
+}
+
+.social-container a span svg {
+  font-size: 37px;
+}
+
+span {
+  font-size: 12px;
+}
+
+.infield {
+  position: relative;
+  margin: 8px 0px;
+  width: 100%;
+}
+
+.infield-1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.infield-1 input {
+  width: 12px;
+  height: 12px;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.infield-1 p {
+  width: 60%;
+  text-align: center;
+  margin: 0px;
+  color: rgb(132, 132, 132);
+}
+input {
+  width: 100%;
+  padding: 12px 15px;
+  background-color: #f3f3f3;
+  border: none;
+  outline: none;
+}
+
+label {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  width: 0%;
+  height: 2px;
+  background: var(--linear-grad);
+  transition: 0.3s;
+}
+
+input:focus ~ label {
+  width: 100%;
+}
+
+a {
+  color: #333;
+  font-size: 14px;
+  text-decoration: none;
+  margin: 15px 0px;
+}
+
+a.forgot {
+  padding-bottom: 3px;
+  border-bottom: 2px solid #eee;
+}
+
+.container .right button {
+  position: absolute;
+  bottom: 20px;
+  left: 63%;
+}
+
+button {
+  text-align: center;
+  border-radius: 20px;
+  border: 1px solid var(--grad-clr1);
+  background: var(--grad-clr2);
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  /* right: 50%; */
+}
+
+button a {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
+
+/* .container button {
+  margin-top: 17px;
+  transition: 80ms ease-in;
+} */
+
+/* .container button:hover {
+  background: #fff;
+  color: var(--grad-clr1);
+} */
+
+/* ============================================================================= */
+
+.container .popup {
+  width: 400px;
+  background: rgb(239, 239, 246);
+  border-radius: 6px;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.1);
+  text-align: center;
+  padding: 0 30px 30px;
+  color: #333;
+  visibility: hidden;
+  transition: transform 0.4s, top 0.4s;
+  /* z-index: 2; */
+}
+
+.container .open-popup {
+  visibility: visible;
+  top: 50%;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.container .popup img {
+  width: 100px;
+  margin-top: -50px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.container .popup h2 {
+  font-size: 38px;
+  font-weight: 500;
+  margin: 30px 0 10px;
+}
+
+.container .popup button {
+  width: 100%;
+  margin-top: 50px;
+  padding: 10px 0;
+  background: #6fd649;
+  color: #fff;
+  border: 0;
+  outline: none;
+  font-size: 18px;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
