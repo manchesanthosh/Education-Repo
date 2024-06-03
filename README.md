@@ -81,7 +81,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Chatbot page](https://manchesanthosh.github.io/Education-Repo/chatbot.png)
 
 # Sign-up page 
-![sign-up page](https://manchesanthosh.github.io/Education-Repo/Signup1.png)
+![sign-up page](https://manchesanthosh.github.io/Education-Repo/signup1.png)
 
 # Sign-in page 
 ![sign-in page](https://manchesanthosh.github.io/Education-Repo/signin1.png)
