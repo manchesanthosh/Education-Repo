@@ -35,59 +35,59 @@ Customizable study plans and progress tracking tools to help learners stay on tr
 ![storage account](https://manchesanthosh.github.io/Education-Repo/storage.png)
 
 # Static website
-![static website](https://manchesanthosh.github.io/Education-Hub/staticwebsite.png.png)
+![static website](https://manchesanthosh.github.io/Education-Repo/staticwebsite.png.png)
 
 # Container
-![container](https://manchesanthosh.github.io/Education-Hub/container.png)
+![container](https://manchesanthosh.github.io/Education-Repo/container.png)
 
 # Backup vault
-![backup vault](https://manchesanthosh.github.io/Education-Hub/Backupvault.png)
+![backup vault](https://manchesanthosh.github.io/Education-Repo/Backupvault.png)
 
 # Role assignment
-![role assignment](https://manchesanthosh.github.io/Education-Hub/Role%20Assignment.png)
+![role assignment](https://manchesanthosh.github.io/Education-Repo/Role%20Assignment.png)
 
 # Backup policy
-![backup policy](https://manchesanthosh.github.io/Education-Hub/Backup%20Policy.png)
+![backup policy](https://manchesanthosh.github.io/Education-Repo/Backup%20Policy.png)
 
 # Azure Bot
-![azure bot](https://manchesanthosh.github.io/Education-Hub/Azure%20Bot.png)
+![azure bot](https://manchesanthosh.github.io/Education-Repo/Azure%20Bot.png)
 
 # Resource visualizer
-![resource visualizer](https://manchesanthosh.github.io/Education-Hub/resourcevisualizer.png)
+![resource visualizer](https://manchesanthosh.github.io/Education-Repo/resourcevisualizer.png)
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-![home](https://manchesanthosh.github.io/Education-Hub/Homepage.png)
+![home](https://manchesanthosh.github.io/Education-Repo/Homepage.png)
 
 # Courses page
-![Courses page](https://manchesanthosh.github.io/Education-Hub/courses.png)
+![Courses page](https://manchesanthosh.github.io/Education-Repo/courses.png)
 
 #
-![Courses page](https://manchesanthosh.github.io/Education-Hub/course1.png)
+![Courses page](https://manchesanthosh.github.io/Education-Repo/course1.png)
 
 # About Us
-![About Us](https://manchesanthosh.github.io/Education-Hub/Aboutus.png)
+![About Us](https://manchesanthosh.github.io/Education-Repo/Aboutus.png)
 
 # Top Expert page
-![About Us](https://manchesanthosh.github.io/Education-Hub/topexperts.png)
+![About Us](https://manchesanthosh.github.io/Education-Repo/topexperts.png)
 
 # Contact Us
-![contact Us](https://manchesanthosh.github.io/Education-Hub/Contactus.png)
+![contact Us](https://manchesanthosh.github.io/Education-Repo/Contactus.png)
 
 # Chatbot page
-![Chatbot page](https://manchesanthosh.github.io/Education-Hub/chatbot.png)
+![Chatbot page](https://manchesanthosh.github.io/Education-Repo/chatbot.png)
 
 # Sign-up page 
-![sign-up page](https://manchesanthosh.github.io/Education-Hub/Sign-up.png)
+![sign-up page](https://manchesanthosh.github.io/Education-Repo/Sign-up.png)
 
 # Sign-in page 
-![sign-in page](https://manchesanthosh.github.io/Education-Hub/Sign-in.png)
+![sign-in page](https://manchesanthosh.github.io/Education-Repo/Sign-in.png)
 
 # Footer page
-![Footer page](https://manchesanthosh.github.io/Education-Hub/footer.png)
+![Footer page](https://manchesanthosh.github.io/Education-Repo/footer.png)
 
 
 # Final Project Statement:
