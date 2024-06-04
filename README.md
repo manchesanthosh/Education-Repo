@@ -63,10 +63,10 @@ Here I am attaching the final working website's screenshot for the reference.
 ![home](https://manchesanthosh.github.io/Education-Repo/Homepage.png)
 
 # Courses page
-![Courses page](https://manchesanthosh.github.io/Education-Repo/courses.png)
+![Courses page](https://manchesanthosh.github.io/Education-Repo/course11.png)
 
 #
-![Courses page](https://manchesanthosh.github.io/Education-Repo/course1.png)
+![Courses page](https://manchesanthosh.github.io/Education-Repo/course22.png)
 
 # About Us
 ![About Us](https://manchesanthosh.github.io/Education-Repo/Aboutus.png)
